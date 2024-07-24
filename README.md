@@ -22,7 +22,8 @@ Este projeto demonstra o uso de operadores de atribuição em Java. Os operadore
 4. Como Executar
 5. Contribuição
 6. Licença
-  
+7. Conclusão
+
 
 
   
@@ -57,6 +58,38 @@ Este projeto demonstra o uso de operadores de atribuição em Java. Os operadore
 ![AND bit a bit e Atribuição](https://github.com/user-attachments/assets/1ddd2fb3-6466-449b-8912-0d703d1039dc)
 
 
+-'|=:' OR Bit a Bit e Atribuição
+![OR](https://github.com/user-attachments/assets/a6a1babe-99b0-49c4-a05e-c105dcc9f8eb)
+
+
+ -'^=': XOR Bit a Bit e Atribuição
+ ![xor](https://github.com/user-attachments/assets/d24a5959-0bd7-4f56-9958-898ed4f509ce)
+
+-'<<=:' Deslocamento à Esquerda e Atribuição
+![ESQUERDA](https://github.com/user-attachments/assets/b4cd6e43-67ea-4a5e-9b57-024ef3d6dd9a)
+
+-'>>=:' Deslocamento à Direita e Atribuição
+![Direita](https://github.com/user-attachments/assets/8357eda9-0ab4-4d4d-a639-03acc3ca4807)
+
+'>>>=:' Deslocamento à Direita sem Sinal e Atribuição
+![Deslocamento](https://github.com/user-attachments/assets/7842fddf-8d9c-4b40-96ff-890d613ba4fe)
+
+## 4. Como Executar
+1. Clone o repositório para a sua máquina local.
+2. Navegue até o diretório do projeto.
+3. Compile o código-fonte Java usando o comando 'javac'.
+4. Execute a aplicação com o comando 'java'.
+
+## 5. Contribuição
+Sinta-se à vontade para abrir issues e enviar pull requests. Todas as contribuições são bem-vindas!
+
+## 6. Licença
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## 7. Conclusão
+Neste projeto, exploramos diversos operadores de atribuição em Java, desde os mais básicos, como =, até os combinados e bit a bit, como +=, -=, &=, |=, entre outros. Entender e utilizar esses operadores de forma eficaz pode tornar o código mais conciso e legível, além de melhorar a eficiência da programação.
+
+Praticar com exemplos reais, como os apresentados, é uma excelente maneira de reforçar o conhecimento sobre como cada operador funciona. Esperamos que este guia tenha sido útil para esclarecer o uso dos operadores de atribuição em Java.
 
 
 
